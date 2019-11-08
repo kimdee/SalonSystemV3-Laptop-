@@ -1,0 +1,80 @@
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.exe.config
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.exe
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.pdb
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.xml
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.vbprojResolveAssemblyReference.cache
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAccount.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAppointment.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAttendance.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmCollection.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmCustmerRec.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmDeduction.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmEmployee.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmHelp.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.Frmlogin.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmMain.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmPayroll.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmPosition.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmService.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmViewFilterAttendance.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.Resources.resources
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.vbproj.GenerateResource.Cache
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.exe
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.xml
+c:\users\theglitch\documents\visual studio 2015\Projects\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.pdb
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.exe.config
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.exe
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.xml
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.pdb
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.exe
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.pdb
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.xml
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.vbprojResolveAssemblyReference.cache
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAccount.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAppointment.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAttendance.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmCollection.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmCustmerRec.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmDeduction.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmEmployee.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmHelp.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.Frmlogin.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmMain.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmPayroll.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmPosition.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmService.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmViewFilterAttendance.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.Resources.resources
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.vbproj.GenerateResource.Cache
+C:\Users\TheGlitch\Desktop\SalonSystemV3\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.frmDashboard.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.exe.config
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.exe
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.xml
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.pdb
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.exe
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.pdb
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.xml
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.vbprojResolveAssemblyReference.cache
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAccount.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAppointment.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAttendance.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.frmDashboard.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmCollection.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmCustmerRec.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmDeduction.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmEmployee.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmHelp.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.Frmlogin.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmMain.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmPayroll.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmPosition.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmService.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.Resources.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.vbproj.GenerateResource.Cache
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.frmAddPosition.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.FrmAttendanceTimein.resources
+C:\Users\PETER\Desktop\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version._3.frmAddAppointment.resources
+C:\Users\PETER\Desktop\Kim Files\SalonManagement.Version.3\SalonManagement.Version.3\bin\Debug\SalonManagement.Version.3.exe.config
+C:\Users\PETER\Desktop\Kim Files\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.exe
+C:\Users\PETER\Desktop\Kim Files\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.xml
+C:\Users\PETER\Desktop\Kim Files\SalonManagement.Version.3\SalonManagement.Version.3\obj\Debug\SalonManagement.Version.3.pdb

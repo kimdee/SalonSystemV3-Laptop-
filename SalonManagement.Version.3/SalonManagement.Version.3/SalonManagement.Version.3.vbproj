@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D51E3FE6-5D08-4FD5-9973-B8E00B58F459}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SalonManagement.Version._3.My.MyApplication</StartupObject>
+    <RootNamespace>SalonManagement.Version._3</RootNamespace>
+    <AssemblyName>SalonManagement.Version.3</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SalonManagement.Version.3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SalonManagement.Version.3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Calendar.NET, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Calendar.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\Accounts.vb" />
+    <Compile Include="Controller\Appointment.vb" />
+    <Compile Include="Controller\Attendance.vb" />
+    <Compile Include="Controller\Billing.vb" />
+    <Compile Include="Controller\Customer.vb" />
+    <Compile Include="Controller\Deduction.vb" />
+    <Compile Include="Controller\Employee.vb" />
+    <Compile Include="Controller\Payroll.vb" />
+    <Compile Include="Controller\Position.vb" />
+    <Compile Include="Controller\Service.vb" />
+    <Compile Include="Model\Connection.vb" />
+    <Compile Include="Model\Method.vb" />
+    <Compile Include="View\Account\FrmAccount.Designer.vb">
+      <DependentUpon>FrmAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Account\FrmAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Appointment\frmAddAppointment.Designer.vb">
+      <DependentUpon>frmAddAppointment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Appointment\frmAddAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Appointment\FrmAppointment.Designer.vb">
+      <DependentUpon>FrmAppointment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Appointment\FrmAppointment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Attendance\FrmAttendanceTimein.Designer.vb">
+      <DependentUpon>FrmAttendanceTimein.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Attendance\FrmAttendanceTimein.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Dashboard\frmDashboard.Designer.vb">
+      <DependentUpon>frmDashboard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Dashboard\frmDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Payments\FrmCollection.Designer.vb">
+      <DependentUpon>FrmCollection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Payments\FrmCollection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Customer\FrmCustmerRec.Designer.vb">
+      <DependentUpon>FrmCustmerRec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Customer\FrmCustmerRec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Deduction\FrmDeduction.Designer.vb">
+      <DependentUpon>FrmDeduction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Deduction\FrmDeduction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Employee\FrmEmployee.Designer.vb">
+      <DependentUpon>FrmEmployee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Employee\FrmEmployee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Help\FrmHelp.Designer.vb">
+      <DependentUpon>FrmHelp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Help\FrmHelp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Login\Frmlogin.Designer.vb">
+      <DependentUpon>Frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login\Frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Main\FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Main\FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Payroll\FrmPayroll.Designer.vb">
+      <DependentUpon>FrmPayroll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Payroll\FrmPayroll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Position\frmAddPosition.Designer.vb">
+      <DependentUpon>frmAddPosition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Position\frmAddPosition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Position\FrmPosition.Designer.vb">
+      <DependentUpon>FrmPosition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Position\FrmPosition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Service\FrmService.Designer.vb">
+      <DependentUpon>FrmService.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Service\FrmService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Attendance\FrmAttendance.Designer.vb">
+      <DependentUpon>FrmAttendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View\Attendance\FrmAttendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="View\Account\FrmAccount.resx">
+      <DependentUpon>FrmAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Appointment\frmAddAppointment.resx">
+      <DependentUpon>frmAddAppointment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Appointment\FrmAppointment.resx">
+      <DependentUpon>FrmAppointment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Attendance\FrmAttendanceTimein.resx">
+      <DependentUpon>FrmAttendanceTimein.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Dashboard\frmDashboard.resx">
+      <DependentUpon>frmDashboard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Payments\FrmCollection.resx">
+      <DependentUpon>FrmCollection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Customer\FrmCustmerRec.resx">
+      <DependentUpon>FrmCustmerRec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Deduction\FrmDeduction.resx">
+      <DependentUpon>FrmDeduction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Employee\FrmEmployee.resx">
+      <DependentUpon>FrmEmployee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Help\FrmHelp.resx">
+      <DependentUpon>FrmHelp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Login\Frmlogin.resx">
+      <DependentUpon>Frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Main\FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Payroll\FrmPayroll.resx">
+      <DependentUpon>FrmPayroll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Position\frmAddPosition.resx">
+      <DependentUpon>frmAddPosition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Position\FrmPosition.resx">
+      <DependentUpon>FrmPosition.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Service\FrmService.resx">
+      <DependentUpon>FrmService.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Attendance\FrmAttendance.resx">
+      <DependentUpon>FrmAttendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\absent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\appointment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attendance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bill %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clockin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\collect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\collection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contract.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cost.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer record.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deduction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\employee1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\euro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit-door.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-record.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notify bell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passkey%28blue%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payroll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\position.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\position1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\service.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings%28blue%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\username%28Blue%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\worker.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x button1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x button11.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
